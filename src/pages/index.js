@@ -132,6 +132,9 @@ const IndexPage = () => {
       <title>Nautacult</title>
       <h1>Nautacult</h1>
       <p>Nautacult spreads science facts and other stuff that is accurate</p>
+      <span role="img" aria-label="emojis">
+        🐳
+      </span>
     </main>
   )
 }
