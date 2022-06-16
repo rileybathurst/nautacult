@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "description": "nautacult",
+  "homepage": "https://nautacult.com",
+  "repository": "github:rileybathurst/nautacult",
   "author": "Riley",
+  "license": "MIT",
   "keywords": [
     "gatsby"
   ],
