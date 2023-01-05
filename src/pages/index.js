@@ -135,6 +135,21 @@ const IndexPage = () => {
       <span role="img" aria-label="emojis">
         🐳
       </span>
+
+      <article>
+        <h2 style={headingStyles}>Whale Boners</h2>
+        <figure>
+          {/* <figcaption>Listen to the T-Rex:</figcaption> */}
+          <audio
+            controls
+            src="https://nautacult.s3.us-west-1.amazonaws.com/whale_boner_mixdown.mp3">
+            <a href="https://nautacult.s3.us-west-1.amazonaws.com/whale_boner_mixdown.mp3">
+              Download audio
+            </a>
+          </audio>
+        </figure>
+
+      </article>
     </main>
   )
 }
